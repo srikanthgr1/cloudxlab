@@ -30,4 +30,5 @@ wordCounts.pprint()
 ssc.start()
 
 # Wait for the computation to terminate
-ssc.awaitTermination()
+ssc.awaitTermination() 
+#Close the program
